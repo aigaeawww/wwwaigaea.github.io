@@ -1,0 +1,7 @@
+const _0x19d525=_0x272c;(function(_0x551224,_0x1bbef4){const _0x23b284=_0x272c,_0x3a1eba=_0x551224();while(!![]){try{const _0x5ccccb=parseInt(_0x23b284(0x121))/0x1+-parseInt(_0x23b284(0x128))/0x2+parseInt(_0x23b284(0x126))/0x3+-parseInt(_0x23b284(0x123))/0x4+-parseInt(_0x23b284(0x125))/0x5+-parseInt(_0x23b284(0x122))/0x6*(-parseInt(_0x23b284(0x124))/0x7)+parseInt(_0x23b284(0x129))/0x8;if(_0x5ccccb===_0x1bbef4)break;else _0x3a1eba['push'](_0x3a1eba['shift']());}catch(_0x459280){_0x3a1eba['push'](_0x3a1eba['shift']());}}}(_0xdd9e,0x9be87));function _0xdd9e(){const _0x1ccc62=['3588568tAcSpN','8134BHzOib','3950755eqHgVX','2523777zrvfSD','path','2217224OvPqYi','14242792hwWwMS','581658mJUhkB','1194YwcTjG'];_0xdd9e=function(){return _0x1ccc62;};return _0xdd9e();}import{c as _0x4a4518}from'./createLucideIcon.1f93c95e.js';/**
+ * @license lucide-vue-next v0.555.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const e=_0x4a4518('box',[['path',{'d':'M21\x208a2\x202\x200\x200\x200-1-1.73l-7-4a2\x202\x200\x200\x200-2\x200l-7\x204A2\x202\x200\x200\x200\x203\x208v8a2\x202\x200\x200\x200\x201\x201.73l7\x204a2\x202\x200\x200\x200\x202\x200l7-4A2\x202\x200\x200\x200\x2021\x2016Z','key':'hh9hay'}],[_0x19d525(0x127),{'d':'m3.3\x207\x208.7\x205\x208.7-5','key':'g66t2b'}],['path',{'d':'M12\x2022V12','key':'d0xqtd'}]]);function _0x272c(_0x2d54ac,_0xa4cb98){_0x2d54ac=_0x2d54ac-0x121;const _0xdd9ef5=_0xdd9e();let _0x272c76=_0xdd9ef5[_0x2d54ac];return _0x272c76;}export{e as B};
